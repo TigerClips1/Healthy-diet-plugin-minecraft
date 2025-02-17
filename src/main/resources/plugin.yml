@@ -1,0 +1,9 @@
+name: HealthyDietPlugin
+version: '1.0-SNAPSHOT'
+main: me.tigerclips1.healthyDietPlugin.HealthyDietPlugin
+api-version: '1.21'
+author: TigerClips1
+permissions:
+  healthy.diet:
+    description: Give the player a diet.
+    default: op
